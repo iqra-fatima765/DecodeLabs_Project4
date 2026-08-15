@@ -410,8 +410,8 @@ Future versions of this project could include:
 
 Cybersecurity Student | Aspiring Ethical Hacker
 
-GitHub: https://github.com/iqra-fatima765
-LinkedIn: https://www.linkedin.com/in/iqra-fatima-7b1b96341
+- GitHub: https://github.com/iqra-fatima765
+- LinkedIn: https://www.linkedin.com/in/iqra-fatima-7b1b96341/
 
 ---
 
