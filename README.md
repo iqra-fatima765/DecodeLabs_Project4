@@ -8,8 +8,6 @@ The project involved conducting a security assessment of a Windows system to ide
 
 The assessment followed a practical security-auditing approach: identifying weaknesses, collecting supporting evidence, assessing risk, recommending remediation, applying security improvements, and performing verification to evaluate the hardened security posture.
 
-> **Note:** This project focuses on defensive security assessment, vulnerability identification, system hardening, and security verification.
-
 ---
 
 ## 🎯 Objectives
@@ -412,7 +410,8 @@ Future versions of this project could include:
 
 Cybersecurity Student | Aspiring Ethical Hacker
 
-GitHub: [@iqra-fatima765](https://github.com/iqra-fatima765)
+GitHub: https://github.com/iqra-fatima765
+LinkedIn: https://www.linkedin.com/in/iqra-fatima-7b1b96341
 
 ---
 
